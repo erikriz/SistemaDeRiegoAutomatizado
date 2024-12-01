@@ -1,1 +1,1 @@
-Esta carpeta contiene los esquemáticos y diseños de hardware.
+Esta carpeta contiene los esquemáticos, diseños de hardware y sus componentes
