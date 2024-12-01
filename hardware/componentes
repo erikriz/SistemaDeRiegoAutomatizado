@@ -1,0 +1,5 @@
+•	Sensor de Humedad: Detecta la humedad del suelo y envía los datos al microcontrolador.
+•	Microcontrolador: Procesa los datos del sensor y toma decisiones para activar o desactivar la bomba.
+•	Relé: Actúa como interruptor controlado por el microcontrolador para encender o apagar la bomba.
+•	Bomba de Agua: Proporciona agua a las plantas cuando el nivel de humedad es bajo.
+•	Fuente de Alimentación: Proporciona energía al sistema.
